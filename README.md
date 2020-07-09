@@ -1,9 +1,9 @@
 # ML_Projects
 Here All the ML Projects
+![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![scikit-learnn](https://img.shields.io/badge/Library-Scikit_Learn-orange.svg)
 
 
-
-### List of Machine Learning Algorithms which is used by me but which is used algorithms always depend on the dataset:
+### List of Machine Learning Algorithms which is used in ML_projects but whichone algorithms is always depend on the datasets:
         1. Linear Regression (regression type problem)
         2. Logistic Regression (classification , regression)
         3. Decision Tree (classification , regression)
@@ -18,3 +18,7 @@ Here All the ML Projects
                 b) XGBoost (classification , regression)
                 c) LightGBM (classification , regression)
                 d) CatBoost (regression, classification, multi-class classification and ranking type probelm)
+
+
+
+• Please do ⭐ the repository, if it helped you in anyway.

@@ -3,7 +3,7 @@ Here All the ML Projects
 ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![scikit-learnn](https://img.shields.io/badge/Library-Scikit_Learn-orange.svg)
 
 
-### List of Machine Learning Algorithms which is used in ML_projects but whichone algorithms is always depend on the datasets:
+### List of Machine Learning Algorithms which is used in ML_projects but which algorithms is apply it's always depend on the datasets:
         1. Linear Regression (regression type problem)
         2. Logistic Regression (classification , regression)
         3. Decision Tree (classification , regression)
